@@ -1,0 +1,7 @@
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\bin\Debug\TheJournal.exe.config
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\bin\Debug\TheJournal.exe
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\bin\Debug\TheJournal.pdb
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\obj\Debug\TheJournal.csproj.AssemblyReference.cache
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\obj\Debug\TheJournal.csproj.CoreCompileInputs.cache
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\obj\Debug\TheJournal.exe
+C:\Users\Mon Pepe\source\repos\TheJournal\TheJournal\obj\Debug\TheJournal.pdb
